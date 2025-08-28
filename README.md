@@ -3,14 +3,25 @@
 This project explores global video game sales data to identify trends across **genres, platforms, publishers, regions, and time**.  
 The dataset was sourced from **Kaggle** and analyzed using **Excel** (pivot tables, charts, and a dashboard).  
 
-Despite the dataset metadata showing 2021, it only provides sales data through **2018**.  
+## Dataset
+
+- Source: Kaggle – **Video Game Sales**
+  - [https://www.kaggle.com/datasets/gregorut/videogamesales](https://www.kaggle.com/datasets/deepcontractor/top-video-games-19952021-metacritic)
+
+---
+## How to Reproduce
+
+1. **Clone this repo**
+   ```bash
+   git clone https://github.com/Mason-Day-Cs/VideoGameAnalysisProject.git
+   cd VideoGameAnalysisProject
 
 ---
 
 ## Project Structure
 
 - `data/`
-  - `video_game_sales.csv`
+  - `vgchartz-2024.csv`
 - `analysis/`
   - `VGS_Analysis.xlsx` 
 - `output/`
