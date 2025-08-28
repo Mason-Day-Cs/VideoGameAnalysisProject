@@ -12,17 +12,16 @@ Despite the dataset metadata showing 2021, it only provides sales data through *
 video-game-sales-analysis/
 │
 ├── data/
-│ └── video_game_sales.csv # raw dataset from Kaggle
+│   └── video_game_sales.csv         # raw dataset from Kaggle
 │
 ├── analysis/
-│ └── VideoGameSales_Analysis.xlsx # Excel workbook with pivots & charts
+│   └── VideoGameSales_Analysis.xlsx # Excel workbook with pivots & charts
 │
 ├── output/
-│ ├── dashboard.pdf # final dashboard (exported from Excel)
-│ └── charts/ # (optional) saved chart images
+│   ├── dashboard.pdf                 # final dashboard (exported from Excel)
+│   └── charts/                       # (optional) saved chart images
 │
-└── README.md # project documentation
-
+└── README.md                         # project documentation
 ---
 
 ## Tools Used
