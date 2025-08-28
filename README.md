@@ -12,7 +12,7 @@ Despite the dataset metadata showing 2021, it only provides sales data through *
 - `data/`
   - `video_game_sales.csv`
 - `analysis/`
-  - `VideoGameSales_Analysis.xlsx` 
+  - `VGS_Analysis.xlsx` 
 - `output/`
   - [ View the Dashboard (PDF)](output/dashboard.pdf)
 
