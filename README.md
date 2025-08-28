@@ -10,13 +10,12 @@ Despite the dataset metadata showing 2021, it only provides sales data through *
 ## Project Structure
 
 - `data/`
-  - `video_game_sales.csv` – raw dataset from Kaggle
+  - `video_game_sales.csv`
 - `analysis/`
-  - `VideoGameSales_Analysis.xlsx` – Excel workbook with pivots & charts
+  - `VideoGameSales_Analysis.xlsx` 
 - `output/`
-  - `dashboard.pdf` – final dashboard (exported from Excel)
-  - `charts/` – (optional) saved chart images
-- `README.md` – project documentation
+  - `dashboard.pdf` 
+- `README.md` 
 
 
 ## Tools Used
